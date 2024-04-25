@@ -105,5 +105,8 @@
       "module",
       "typescript"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
